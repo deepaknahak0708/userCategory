@@ -1,0 +1,19 @@
+{
+  "name": "usercategory",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "deepak",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepaknahak0708/userCategory.git"
+  },
+  "bugs": {
+    "url": "https://github.com/deepaknahak0708/userCategory/issues"
+  },
+  "homepage": "https://github.com/deepaknahak0708/userCategory#readme",
+  "description": ""
+}
